@@ -1,2 +1,2 @@
-# -Arduino-
-某机械生的金工实习作业（？
+# -Arduino-Smartcar
+基于Arduino平台的自动循迹小车
